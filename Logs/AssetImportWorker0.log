@@ -1,0 +1,1044 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19043.985; Version 2009; 64bit' Language: 'es' Physical Memory: 7541 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/_Trabajo/CICE_GETAFE_Unity2021_4/DemoAnimaciones
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56208
+Successfully changed project path to: D:/_Trabajo/CICE_GETAFE_Unity2021_4/DemoAnimaciones
+D:/_Trabajo/CICE_GETAFE_Unity2021_4/DemoAnimaciones
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/_Trabajo/CICE_GETAFE_Unity2021_4/DemoAnimaciones/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c91)
+    Vendor:   
+    VRAM:     2996 MB
+    Driver:   27.21.14.5763
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56316
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001663 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 23.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.958 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.827 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.9 MB.
+System memory in use after: 57.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 2.661500 ms (FindLiveObjects: 0.304400 ms CreateObjectMapping: 0.056200 ms MarkObjects: 2.083800 ms  DeleteObjects: 0.215000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.012209 seconds
+  Import took 0.015911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.930205 seconds.
+  path: Assets/MixamoAnimations
+  artifactKey: Guid(ce80ec0a2acefa8479d5fb87e8e2f1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations using Guid(ce80ec0a2acefa8479d5fb87e8e2f1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a50f64b1ade2c6ba0decc8487bd5eb1') in 0.007440 seconds
+  Import took 0.011096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.416084 seconds.
+  path: Assets/MixamoAnimations/firing rifle.fbx
+  artifactKey: Guid(69dcf6c68f295914faa20e4d0e506356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/firing rifle.fbx using Guid(69dcf6c68f295914faa20e4d0e506356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875266f98a6304f08a92b57e49469110') in 0.047102 seconds
+  Import took 0.049951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/MixamoAnimations/rifle aiming idle.fbx
+  artifactKey: Guid(346de2ba118628249ad27febbf50bca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/rifle aiming idle.fbx using Guid(346de2ba118628249ad27febbf50bca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc2482a6e0125ee70aa015384e8d67e') in 0.012443 seconds
+  Import took 0.015128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/MixamoAnimations/left strafe.fbx
+  artifactKey: Guid(e5e2cc527cf8142489aeb6603a053fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/left strafe.fbx using Guid(e5e2cc527cf8142489aeb6603a053fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715fb58b5083e86b3ffb52619c1dfb49') in 0.011531 seconds
+  Import took 0.013796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/MixamoAnimations/walk backwards stop.fbx
+  artifactKey: Guid(e4f45a6d328bd904291760d2517fea0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/walk backwards stop.fbx using Guid(e4f45a6d328bd904291760d2517fea0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff6518eeb7afb581eddaf062b8baeb4') in 0.010594 seconds
+  Import took 0.013572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/MixamoAnimations/idle.fbx
+  artifactKey: Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/idle.fbx using Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90d59f3d57f8af1f1bd35156e614528e') in 0.010443 seconds
+  Import took 0.013489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/MixamoAnimations/jump forward.fbx
+  artifactKey: Guid(991223598554a92468280af0920ccc10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/jump forward.fbx using Guid(991223598554a92468280af0920ccc10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8c127c39b21d2c3c1bc7e8266da31d') in 0.010656 seconds
+  Import took 0.014720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/MixamoAnimations/strafe (2).fbx
+  artifactKey: Guid(b055d1e146fed0c429a3028817d49777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/strafe (2).fbx using Guid(b055d1e146fed0c429a3028817d49777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee38332780d78f7db7c58565d2f9d71') in 0.010570 seconds
+  Import took 0.013684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/MixamoAnimations/start walking.fbx
+  artifactKey: Guid(4d132c5c9453f824a95dedd1ed1812ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/start walking.fbx using Guid(4d132c5c9453f824a95dedd1ed1812ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b200498ca9fdfc04bc2bbaf0fbb0a2a4') in 0.010350 seconds
+  Import took 0.013784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/MixamoAnimations/jump.fbx
+  artifactKey: Guid(bf4beb6607066f644b88c153bdf633bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/jump.fbx using Guid(bf4beb6607066f644b88c153bdf633bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b793b917deb4e6970ec3ce41c2e3473') in 0.010315 seconds
+  Import took 0.013551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/MixamoAnimations/left turn 90.fbx
+  artifactKey: Guid(d93daf1b68c0f454182b6f1cf77325cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/left turn 90.fbx using Guid(d93daf1b68c0f454182b6f1cf77325cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9d39505f8667454a3348f8b78db59e7') in 0.011151 seconds
+  Import took 0.013657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/MixamoAnimations/standard run.fbx
+  artifactKey: Guid(2fb9d0f4294127f4ab5d92712cc94c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/standard run.fbx using Guid(2fb9d0f4294127f4ab5d92712cc94c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dae9287f87a3bfb66d4597919a93e74') in 0.011505 seconds
+  Import took 0.013673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/MixamoAnimations/right strafe walking.fbx
+  artifactKey: Guid(346ec160348f48843b9d960718700f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/right strafe walking.fbx using Guid(346ec160348f48843b9d960718700f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '525de9579961db69cc326da1d81a4e82') in 0.010968 seconds
+  Import took 0.013057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/MixamoAnimations/rifle run.fbx
+  artifactKey: Guid(879bddd0fb77dcb4098a4576f7f39b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/rifle run.fbx using Guid(879bddd0fb77dcb4098a4576f7f39b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6451a6de71fa11ed82b80bb0d8c6e328') in 0.010699 seconds
+  Import took 0.013219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/MixamoAnimations/passive_marker_man@T-Pose.fbx
+  artifactKey: Guid(3e275040f9e93824a8e333a78b5fc4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/passive_marker_man@T-Pose.fbx using Guid(3e275040f9e93824a8e333a78b5fc4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b63bce184c7fcf294b8b087d2d9189a') in 0.524909 seconds
+  Import took 0.527582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/MixamoAnimations/run backwards.fbx
+  artifactKey: Guid(59c660d4b6c238949b4e9c825261e002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/run backwards.fbx using Guid(59c660d4b6c238949b4e9c825261e002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7fd859d6c341c212c6bc665adcac95') in 0.010275 seconds
+  Import took 0.012924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/MixamoAnimations/stop walking.fbx
+  artifactKey: Guid(b38b7ce21152b874591127b3b69bafd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/stop walking.fbx using Guid(b38b7ce21152b874591127b3b69bafd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '857bfafe52289de9c169a5e9808fe954') in 0.010790 seconds
+  Import took 0.012936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/MixamoAnimations/start walking backwards.fbx
+  artifactKey: Guid(9bcc91490bc060f46b13e91f3a80a30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/start walking backwards.fbx using Guid(9bcc91490bc060f46b13e91f3a80a30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b376029cf47e3545873ece856cb97667') in 0.011104 seconds
+  Import took 0.013887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/MixamoAnimations/walking backwards.fbx
+  artifactKey: Guid(948ffe2cac19f12418ccf0b3c06fcf04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/walking backwards.fbx using Guid(948ffe2cac19f12418ccf0b3c06fcf04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2037c14a1932340ad9bbfd0e496ab926') in 0.010999 seconds
+  Import took 0.013826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/MixamoAnimations/right strafe.fbx
+  artifactKey: Guid(fb6535947f117264db78aa74828e5925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/right strafe.fbx using Guid(fb6535947f117264db78aa74828e5925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00edd53a00785dcfb115f61a2e361c52') in 0.011402 seconds
+  Import took 0.013819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/MixamoAnimations/walking to dying.fbx
+  artifactKey: Guid(f03343e86273991408a967f8154137e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/walking to dying.fbx using Guid(f03343e86273991408a967f8154137e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ddfee196d1b17c571ef9962cef6d91a') in 0.010698 seconds
+  Import took 0.012871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/MixamoAnimations/walking.fbx
+  artifactKey: Guid(ef6f828d3fbb2724eb3f5574ccf7f2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/walking.fbx using Guid(ef6f828d3fbb2724eb3f5574ccf7f2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6f5d3b791eedbaf732b46753eaa73d3') in 0.009956 seconds
+  Import took 0.012761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/MixamoAnimations/strafe.fbx
+  artifactKey: Guid(9f037a256d974624da1ec68e9dc04577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/strafe.fbx using Guid(9f037a256d974624da1ec68e9dc04577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6efc8ee454f44d6151f95bf336aa5b1f') in 0.010262 seconds
+  Import took 0.012831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/MixamoAnimations/passive_marker_man.fbx
+  artifactKey: Guid(8fe12bccaf8b2c44b8e59432f4dbbf30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/passive_marker_man.fbx using Guid(8fe12bccaf8b2c44b8e59432f4dbbf30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5babcde46dac63cbaa7a2d038e06b49b') in 0.065334 seconds
+  Import took 0.068428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/MixamoAnimations/jump backward.fbx
+  artifactKey: Guid(2821722df079d7648a30e461b620b7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/jump backward.fbx using Guid(2821722df079d7648a30e461b620b7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1312bee4caaaf8001489318d3d43aa9') in 0.010598 seconds
+  Import took 0.012998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/MixamoAnimations/left strafe walking.fbx
+  artifactKey: Guid(3abaeb6b0a6794243a9c01b35295d60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/left strafe walking.fbx using Guid(3abaeb6b0a6794243a9c01b35295d60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6513f7b763590ee27d96d5dd660ae75') in 0.010616 seconds
+  Import took 0.013399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/MixamoAnimations/right turn 90.fbx
+  artifactKey: Guid(b2878519c104f7a48af66a51d4631595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/right turn 90.fbx using Guid(b2878519c104f7a48af66a51d4631595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '217dac82070f34b046ff0c423db67c73') in 0.010246 seconds
+  Import took 0.012260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.867388 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(0a7ca050df4ce2840b738f3448bc8fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(0a7ca050df4ce2840b738f3448bc8fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9b8a65f44b4bd081a6aab87d28b854e') in 0.006954 seconds
+  Import took 0.009679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(0a7ca050df4ce2840b738f3448bc8fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(0a7ca050df4ce2840b738f3448bc8fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9b8a65f44b4bd081a6aab87d28b854e') in 0.002612 seconds
+  Import took 0.004801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.551351 seconds.
+  path: Assets/Animations/KyleAC.anim
+  artifactKey: Guid(0717cee96acc29043ba8310d9f5833bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/KyleAC.anim using Guid(0717cee96acc29043ba8310d9f5833bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '669306d2f881ae8be4f508ac5d79e66c') in 0.015053 seconds
+  Import took 0.016995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.724053 seconds.
+  path: Assets/Animations/RobotAC.controller
+  artifactKey: Guid(c88d454de45629141abccc03fe19973a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/RobotAC.controller using Guid(c88d454de45629141abccc03fe19973a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656e8d101b5260a6b526e1b7880b5666') in 0.011637 seconds
+  Import took 0.014002 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000878 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.753 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1606.
+Total: 2.232000 ms (FindLiveObjects: 0.180200 ms CreateObjectMapping: 0.026500 ms MarkObjects: 1.901400 ms  DeleteObjects: 0.122600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.800124 seconds.
+  path: Assets/MixamoAnimations/idle.fbx
+  artifactKey: Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/idle.fbx using Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd1f0acbb539c14e3e043385c20f155') in 0.026423 seconds
+  Import took 0.029330 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000732 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.750 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1609.
+Total: 1.877500 ms (FindLiveObjects: 0.319500 ms CreateObjectMapping: 0.046900 ms MarkObjects: 1.445200 ms  DeleteObjects: 0.063900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.179516 seconds.
+  path: Assets/MixamoAnimations/idle.fbx
+  artifactKey: Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/idle.fbx using Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c762deae1d61e9b114132585548f61a4') in 0.025264 seconds
+  Import took 0.027360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.306530 seconds.
+  path: Assets/Robot Kyle/Model
+  artifactKey: Guid(430ed21f925a5f24899d13730aa9b717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Model using Guid(430ed21f925a5f24899d13730aa9b717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec12c5dbdeeea627d10aaaa2e220290d') in 0.016324 seconds
+  Import took 0.018831 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000795 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.755 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1612.
+Total: 2.158700 ms (FindLiveObjects: 0.147200 ms CreateObjectMapping: 0.028800 ms MarkObjects: 1.876700 ms  DeleteObjects: 0.103500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.775171 seconds.
+  path: Assets/Robot Kyle/Model/Robot Kyle.fbx
+  artifactKey: Guid(320b1c2af77554f99a1658df4a6d3d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Model/Robot Kyle.fbx using Guid(320b1c2af77554f99a1658df4a6d3d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eef2fa4d94ebbe2c3a9a2abf150f25a') in 0.094281 seconds
+  Import took 0.097088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.224848 seconds.
+  path: Assets/MixamoAnimations/idle.fbx
+  artifactKey: Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/idle.fbx using Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59e4fc3ef9c589682573912afde1fdeb') in 0.007383 seconds
+  Import took 0.010013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007434 seconds.
+  path: Assets/MixamoAnimations/idle.fbx
+  artifactKey: Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/idle.fbx using Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59e4fc3ef9c589682573912afde1fdeb') in 0.006532 seconds
+  Import took 0.008724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.902516 seconds.
+  path: Assets/MixamoAnimations/idle.fbx
+  artifactKey: Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/idle.fbx using Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677cd1c76dd468e696e29d223237ad37') in 0.006105 seconds
+  Import took 0.008940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021208 seconds.
+  path: Assets/MixamoAnimations/idle.fbx
+  artifactKey: Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/idle.fbx using Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677cd1c76dd468e696e29d223237ad37') in 0.006878 seconds
+  Import took 0.009326 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000717 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.740 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.9 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 2.235200 ms (FindLiveObjects: 0.160100 ms CreateObjectMapping: 0.027600 ms MarkObjects: 1.988900 ms  DeleteObjects: 0.057100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.310665 seconds.
+  path: Assets/MixamoAnimations/jump backward.fbx
+  artifactKey: Guid(2821722df079d7648a30e461b620b7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/jump backward.fbx using Guid(2821722df079d7648a30e461b620b7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc73ce163a7493cf6b8cfeb8abd7759') in 0.031256 seconds
+  Import took 0.033494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031142 seconds.
+  path: Assets/MixamoAnimations/jump backward.fbx
+  artifactKey: Guid(2821722df079d7648a30e461b620b7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/jump backward.fbx using Guid(2821722df079d7648a30e461b620b7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc73ce163a7493cf6b8cfeb8abd7759') in 0.006355 seconds
+  Import took 0.008820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.035512 seconds.
+  path: Assets/MixamoAnimations/passive_marker_man.fbx
+  artifactKey: Guid(8fe12bccaf8b2c44b8e59432f4dbbf30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/passive_marker_man.fbx using Guid(8fe12bccaf8b2c44b8e59432f4dbbf30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1136b8c52af6a3c4f2fd34586a77f7a') in 0.120828 seconds
+  Import took 0.124592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.549437 seconds.
+  path: Assets/MixamoAnimations/passive_marker_man@T-Pose.fbx
+  artifactKey: Guid(3e275040f9e93824a8e333a78b5fc4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/passive_marker_man@T-Pose.fbx using Guid(3e275040f9e93824a8e333a78b5fc4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71e352b26ce7451cfde44478b0bfde13') in 0.086592 seconds
+  Import took 0.090389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.423420 seconds.
+  path: Assets/MixamoAnimations/left turn 90.fbx
+  artifactKey: Guid(d93daf1b68c0f454182b6f1cf77325cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/left turn 90.fbx using Guid(d93daf1b68c0f454182b6f1cf77325cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf29781a29ba96a105f124a849053bf') in 0.008283 seconds
+  Import took 0.011931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.947230 seconds.
+  path: Assets/MixamoAnimations/left strafe.fbx
+  artifactKey: Guid(e5e2cc527cf8142489aeb6603a053fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/left strafe.fbx using Guid(e5e2cc527cf8142489aeb6603a053fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc662f1fecf57c9e2778bf55b0405ae') in 0.009764 seconds
+  Import took 0.011969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.663188 seconds.
+  path: Assets/MixamoAnimations/left strafe walking.fbx
+  artifactKey: Guid(3abaeb6b0a6794243a9c01b35295d60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/left strafe walking.fbx using Guid(3abaeb6b0a6794243a9c01b35295d60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07011b877679b8670f88372f99f79dff') in 0.007676 seconds
+  Import took 0.010489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.301356 seconds.
+  path: Assets/MixamoAnimations/idle.fbx
+  artifactKey: Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/idle.fbx using Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2c57ca2ec320c79d9fdc8b92b11d1a') in 0.006215 seconds
+  Import took 0.008738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.341900 seconds.
+  path: Assets/MixamoAnimations/idle.fbx
+  artifactKey: Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/idle.fbx using Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82de75d688738cce98b3f66fe950c666') in 0.005727 seconds
+  Import took 0.007965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.160331 seconds.
+  path: Assets/MixamoAnimations/idle.fbx
+  artifactKey: Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoAnimations/idle.fbx using Guid(e320025508aa1d04e9f0b7333ef1a96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c69bcc1c9180d4e249b1d7e150dfcf03') in 0.006357 seconds
+  Import took 0.009235 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000614 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.821 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.9 MB.
+System memory in use after: 76.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1620.
+Total: 2.561000 ms (FindLiveObjects: 0.242800 ms CreateObjectMapping: 0.066500 ms MarkObjects: 2.179000 ms  DeleteObjects: 0.069800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.561433 seconds.
+  path: Assets/MixamoCharacter
+  artifactKey: Guid(327602f22a2ac754493665b908416073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoCharacter using Guid(327602f22a2ac754493665b908416073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5890b48dbad2fb4ec339485110de302b') in 0.009016 seconds
+  Import took 0.011638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.789930 seconds.
+  path: Assets/MixamoCharacter/idle.fbx
+  artifactKey: Guid(04b7ce886414fd44690382c7384f8748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoCharacter/idle.fbx using Guid(04b7ce886414fd44690382c7384f8748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd9706f78a3bd62b5fa5e7cc4f0cc99') in 0.025935 seconds
+  Import took 0.028695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.103499 seconds.
+  path: Assets/MixamoCharacter/passive_marker_man.fbx
+  artifactKey: Guid(19442987e6796b440beaec4753fd9a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoCharacter/passive_marker_man.fbx using Guid(19442987e6796b440beaec4753fd9a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e0d0452da737cdb073cb7ac6f4d8fd') in 0.126885 seconds
+  Import took 0.130011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.255978 seconds.
+  path: Assets/MixamoCharacter/passive_marker_man@T-Pose.fbx
+  artifactKey: Guid(0cfb477eeada9a5469725b73ac3a3c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoCharacter/passive_marker_man@T-Pose.fbx using Guid(0cfb477eeada9a5469725b73ac3a3c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dc0ce6ac09b144f6b7865288a367cf0') in 0.134230 seconds
+  Import took 0.137412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.462930 seconds.
+  path: Assets/MixamoCharacter/firing rifle.fbx
+  artifactKey: Guid(8806c3dcf68be8c4982629e9e725ea04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoCharacter/firing rifle.fbx using Guid(8806c3dcf68be8c4982629e9e725ea04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f40af982f9f9963f5e5b18cdb4a52ea') in 0.007565 seconds
+  Import took 0.010223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.023467 seconds.
+  path: Assets/MixamoCharacter/start walking backwards.fbx
+  artifactKey: Guid(270a17c0ca04b0b4eac4d9df92577ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoCharacter/start walking backwards.fbx using Guid(270a17c0ca04b0b4eac4d9df92577ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40721f64ea31ae3ccaffb6c78cb8378d') in 0.006704 seconds
+  Import took 0.009531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.627163 seconds.
+  path: Assets/MixamoCharacter/passive_marker_man.fbx
+  artifactKey: Guid(19442987e6796b440beaec4753fd9a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoCharacter/passive_marker_man.fbx using Guid(19442987e6796b440beaec4753fd9a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3abe0ab9fc7bb53e99c0f59fa23bf273') in 0.068284 seconds
+  Import took 0.070864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.452072 seconds.
+  path: Assets/MixamoCharacter/passive_marker_man.fbx
+  artifactKey: Guid(19442987e6796b440beaec4753fd9a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoCharacter/passive_marker_man.fbx using Guid(19442987e6796b440beaec4753fd9a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2721418f0baa063e20ce84e48e01c7fe') in 0.138771 seconds
+  Import took 0.142316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.263913 seconds.
+  path: Assets/MixamoCharacter/passive_marker_man.fbx
+  artifactKey: Guid(19442987e6796b440beaec4753fd9a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoCharacter/passive_marker_man.fbx using Guid(19442987e6796b440beaec4753fd9a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39eb4e9f75e8e80e3bb629d514914484') in 0.049460 seconds
+  Import took 0.052655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.671407 seconds.
+  path: Assets/MixamoCharacter/Materials
+  artifactKey: Guid(025da800cb4d9fb4d8c301516ba0f153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixamoCharacter/Materials using Guid(025da800cb4d9fb4d8c301516ba0f153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881288a69e93ccb6fa14bc7d9726c86a') in 0.007977 seconds
+  Import took 0.009869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.675976 seconds.
+  path: Assets/Mixamo3DModel
+  artifactKey: Guid(add21fd6504890b489bebbb0f8422c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DModel using Guid(add21fd6504890b489bebbb0f8422c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4851e95ff76a2fa0c30f4fe46a1f703') in 0.007188 seconds
+  Import took 0.009955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.791842 seconds.
+  path: Assets/Mixamo3DModel/passive_marker_man@T-Pose.fbx
+  artifactKey: Guid(ffafb6a79e39f894093581307c6d5046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DModel/passive_marker_man@T-Pose.fbx using Guid(ffafb6a79e39f894093581307c6d5046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c8a984903621e50fce20e903d532b8') in 0.071626 seconds
+  Import took 0.074179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.726907 seconds.
+  path: Assets/Mixamo3DModel/passive_marker_man@T-Pose.fbx
+  artifactKey: Guid(ffafb6a79e39f894093581307c6d5046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DModel/passive_marker_man@T-Pose.fbx using Guid(ffafb6a79e39f894093581307c6d5046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6af51397688e016ac053a58693c9bde9') in 0.053956 seconds
+  Import took 0.056677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.823519 seconds.
+  path: Assets/Mixamo3DModel/passive_marker_man@T-Pose.fbx
+  artifactKey: Guid(ffafb6a79e39f894093581307c6d5046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DModel/passive_marker_man@T-Pose.fbx using Guid(ffafb6a79e39f894093581307c6d5046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4cefd36e8d959f4f1aa764374c50cd8') in 0.058553 seconds
+  Import took 0.061146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.439366 seconds.
+  path: Assets/Mixamo3DModel/Materials
+  artifactKey: Guid(6cb4c9b38c48ff749ab5d209dc747c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DModel/Materials using Guid(6cb4c9b38c48ff749ab5d209dc747c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5b8dda1a5f48bb438a64e434edeb62') in 0.002905 seconds
+  Import took 0.005269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.927624 seconds.
+  path: Assets/Mixamo3DModel/Textures/MocapSuit02_diffuse.png
+  artifactKey: Guid(7c1e0e11e38c960448193c94831f19b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DModel/Textures/MocapSuit02_diffuse.png using Guid(7c1e0e11e38c960448193c94831f19b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314dedace02769a641693c49cb689a65') in 0.057267 seconds
+  Import took 0.059501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.795563 seconds.
+  path: Assets/Mixamo3DAnimations
+  artifactKey: Guid(c777b9e2072919646b94f0694dfd87c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations using Guid(c777b9e2072919646b94f0694dfd87c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14497cacc6a90010cb7d50e980d0fdfa') in 0.007423 seconds
+  Import took 0.009723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.594527 seconds.
+  path: Assets/Mixamo3DAnimations/Male Locomotion Pack.zip
+  artifactKey: Guid(69bf6456c27daf543909e15100d86423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/Male Locomotion Pack.zip using Guid(69bf6456c27daf543909e15100d86423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3229db42789bba859fc6f3cbd1a661') in 0.009802 seconds
+  Import took 0.011725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.643899 seconds.
+  path: Assets/Mixamo3DModel/passive_marker_man@T-Pose.fbx
+  artifactKey: Guid(ffafb6a79e39f894093581307c6d5046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DModel/passive_marker_man@T-Pose.fbx using Guid(ffafb6a79e39f894093581307c6d5046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '960ab10f14744d1804c3557c906a6cb4') in 0.062918 seconds
+  Import took 0.065470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.945687 seconds.
+  path: Assets/Mixamo3DAnimations/idle.fbx
+  artifactKey: Guid(5f3be3a5b08668f4786b1671aaf3aed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/idle.fbx using Guid(5f3be3a5b08668f4786b1671aaf3aed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f3635c6c990dd0525512bceca9dfbf9') in 0.010575 seconds
+  Import took 0.012968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.277684 seconds.
+  path: Assets/Mixamo3DAnimations/idle.fbx
+  artifactKey: Guid(5f3be3a5b08668f4786b1671aaf3aed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/idle.fbx using Guid(5f3be3a5b08668f4786b1671aaf3aed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903efe6cf0cf19aa82c627fb6ec2b415') in 0.006010 seconds
+  Import took 0.008362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.207393 seconds.
+  path: Assets/Animations/RobotAC.controller
+  artifactKey: Guid(c88d454de45629141abccc03fe19973a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/RobotAC.controller using Guid(c88d454de45629141abccc03fe19973a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0492a34512fa160395ca87c936acfd56') in 0.010023 seconds
+  Import took 0.012488 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000868 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.750 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.2 MB.
+System memory in use after: 76.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1625.
+Total: 3.571300 ms (FindLiveObjects: 0.308300 ms CreateObjectMapping: 0.054200 ms MarkObjects: 3.088600 ms  DeleteObjects: 0.116100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.087641 seconds.
+  path: Assets/Mixamo3DAnimations/jump backward.fbx
+  artifactKey: Guid(5d7a4481613c27e45aeb9cce9505bfd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/jump backward.fbx using Guid(5d7a4481613c27e45aeb9cce9505bfd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552d795453e13ceb3afab20168ef583e') in 0.027561 seconds
+  Import took 0.031321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002944 seconds.
+  path: Assets/Mixamo3DAnimations/jump backward.fbx
+  artifactKey: Guid(5d7a4481613c27e45aeb9cce9505bfd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/jump backward.fbx using Guid(5d7a4481613c27e45aeb9cce9505bfd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552d795453e13ceb3afab20168ef583e') in 0.005812 seconds
+  Import took 0.008048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.740027 seconds.
+  path: Assets/Mixamo3DAnimations/firing rifle.fbx
+  artifactKey: Guid(86600fb36d45c2643ad56d7505a443f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/firing rifle.fbx using Guid(86600fb36d45c2643ad56d7505a443f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6936899124a8428ea504376e6fdca16b') in 0.010847 seconds
+  Import took 0.014006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.289130 seconds.
+  path: Assets/Mixamo3DAnimations/jump forward.fbx
+  artifactKey: Guid(7d25f217e135b7e4bb2356db6f19fb10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/jump forward.fbx using Guid(7d25f217e135b7e4bb2356db6f19fb10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5258fcab4b009acc411aba47ac6d754e') in 0.006786 seconds
+  Import took 0.009520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.228499 seconds.
+  path: Assets/Mixamo3DAnimations/jump.fbx
+  artifactKey: Guid(56dbb82fe4632264685b50b651da893a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/jump.fbx using Guid(56dbb82fe4632264685b50b651da893a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f357896c01d96eea90819a07311abc') in 0.011527 seconds
+  Import took 0.014285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.144225 seconds.
+  path: Assets/Mixamo3DAnimations/left strafe walking.fbx
+  artifactKey: Guid(3ec3d8ff836c765458e2c9d9c4fe0678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/left strafe walking.fbx using Guid(3ec3d8ff836c765458e2c9d9c4fe0678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecf5900cd1c3ea31ac8f3d5ecb96ec86') in 0.006769 seconds
+  Import took 0.009103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.274249 seconds.
+  path: Assets/Mixamo3DAnimations/left strafe.fbx
+  artifactKey: Guid(7177f5c36826fad4aa8d78cc5f812890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/left strafe.fbx using Guid(7177f5c36826fad4aa8d78cc5f812890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de7a816bdf4236e9f199315429610f6') in 0.006160 seconds
+  Import took 0.009749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.062937 seconds.
+  path: Assets/Mixamo3DAnimations/left turn 90.fbx
+  artifactKey: Guid(daffacbb11f31a440b116cddbef8e9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/left turn 90.fbx using Guid(daffacbb11f31a440b116cddbef8e9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb7908085d197cc8613471da98a122f7') in 0.006791 seconds
+  Import took 0.009519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.808399 seconds.
+  path: Assets/Mixamo3DAnimations/passive_marker_man.fbx
+  artifactKey: Guid(0951b126a3bedcc40843bf65b50cf0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/passive_marker_man.fbx using Guid(0951b126a3bedcc40843bf65b50cf0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dbd43270a619eccf9a24a8019123f2c') in 0.128048 seconds
+  Import took 0.131393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.157258 seconds.
+  path: Assets/Mixamo3DAnimations/rifle aiming idle.fbx
+  artifactKey: Guid(a5874a9b38ab6a249ada1ee34e93970a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/rifle aiming idle.fbx using Guid(a5874a9b38ab6a249ada1ee34e93970a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2d26e1d6c0388506579ff6d5d283a0b') in 0.011290 seconds
+  Import took 0.014915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.557672 seconds.
+  path: Assets/Mixamo3DAnimations/rifle run.fbx
+  artifactKey: Guid(5651a30b9b8202d48bf5f0c65871af8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/rifle run.fbx using Guid(5651a30b9b8202d48bf5f0c65871af8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6359e90a6f8b3200b3d5fa2b5ed8056') in 0.006503 seconds
+  Import took 0.009364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.937119 seconds.
+  path: Assets/Mixamo3DAnimations/right strafe walking.fbx
+  artifactKey: Guid(78542e6233ab1a745a8259c1720d9a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/right strafe walking.fbx using Guid(78542e6233ab1a745a8259c1720d9a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af6dd9d6fa9f80f3b9516ada96170316') in 0.006252 seconds
+  Import took 0.009097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.650943 seconds.
+  path: Assets/Mixamo3DAnimations/right strafe.fbx
+  artifactKey: Guid(dc617ce930ba9634280adcc97cfde568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/right strafe.fbx using Guid(dc617ce930ba9634280adcc97cfde568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f2f266ef7e86fd53075a8f973e7e2d1') in 0.007774 seconds
+  Import took 0.010133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.152439 seconds.
+  path: Assets/Mixamo3DAnimations/right turn 90.fbx
+  artifactKey: Guid(00780036432fe834ea1c3b2ae5f83ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/right turn 90.fbx using Guid(00780036432fe834ea1c3b2ae5f83ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32455de5f6696436c9b56abb350151a5') in 0.009045 seconds
+  Import took 0.012160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.318312 seconds.
+  path: Assets/Mixamo3DAnimations/run backwards.fbx
+  artifactKey: Guid(82629efa55277bb488ca981e2639bb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/run backwards.fbx using Guid(82629efa55277bb488ca981e2639bb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c10ef16606eb76a3cf64f4d471127f8') in 0.010915 seconds
+  Import took 0.013292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.114891 seconds.
+  path: Assets/Mixamo3DAnimations/standard run.fbx
+  artifactKey: Guid(d11f3250ce09a3247a84acabc70461d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/standard run.fbx using Guid(d11f3250ce09a3247a84acabc70461d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4d1f5561d6cae88a3168077f714923') in 0.010679 seconds
+  Import took 0.013636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.653270 seconds.
+  path: Assets/Mixamo3DAnimations/start walking backwards.fbx
+  artifactKey: Guid(84c31f0150e53fe4baf27c443edc3e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/start walking backwards.fbx using Guid(84c31f0150e53fe4baf27c443edc3e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6558c16e03c1da601e54e2d944ff6fdf') in 0.009459 seconds
+  Import took 0.014165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.889887 seconds.
+  path: Assets/Mixamo3DAnimations/start walking.fbx
+  artifactKey: Guid(0f4e92bee36014841af5b00894485d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/start walking.fbx using Guid(0f4e92bee36014841af5b00894485d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c80bae0d016304feb9bfab9541d34f0') in 0.006116 seconds
+  Import took 0.008476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.585223 seconds.
+  path: Assets/Mixamo3DAnimations/stop walking.fbx
+  artifactKey: Guid(bbefe3f7ed8c90f47a05794d80817c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/stop walking.fbx using Guid(bbefe3f7ed8c90f47a05794d80817c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ecfb6f7c66d7a6419ddf47921062ca5') in 0.013229 seconds
+  Import took 0.016408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.668390 seconds.
+  path: Assets/Mixamo3DAnimations/strafe (2).fbx
+  artifactKey: Guid(88dfce328a51dcc42a13acc04366e11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/strafe (2).fbx using Guid(88dfce328a51dcc42a13acc04366e11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb1a16bb47f560a8a71a156482015f2') in 0.011022 seconds
+  Import took 0.014421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.115281 seconds.
+  path: Assets/Mixamo3DAnimations/strafe.fbx
+  artifactKey: Guid(91622fb00123aad4185ea7cc884623d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/strafe.fbx using Guid(91622fb00123aad4185ea7cc884623d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cd4c70960dcb5a4b5064e458fd4190c') in 0.010213 seconds
+  Import took 0.012653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.922108 seconds.
+  path: Assets/Mixamo3DAnimations/walk backwards stop.fbx
+  artifactKey: Guid(15a7d2081712b5e498b3d8b834a7ee18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/walk backwards stop.fbx using Guid(15a7d2081712b5e498b3d8b834a7ee18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd57a3a85d2fb7907ff94f9bf44ea4d') in 0.006220 seconds
+  Import took 0.009028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.859141 seconds.
+  path: Assets/Mixamo3DAnimations/walking backwards.fbx
+  artifactKey: Guid(267c59be6fa4e9b498aee3bb2172f87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/walking backwards.fbx using Guid(267c59be6fa4e9b498aee3bb2172f87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c6d9778c814785e914b52eec779215') in 0.006212 seconds
+  Import took 0.008863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.564652 seconds.
+  path: Assets/Mixamo3DAnimations/walking to dying.fbx
+  artifactKey: Guid(37c1dfc99e24c324dad21a42e88670d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/walking to dying.fbx using Guid(37c1dfc99e24c324dad21a42e88670d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0bcac4efde9c915d346620dda161abe') in 0.013082 seconds
+  Import took 0.015712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.105457 seconds.
+  path: Assets/Mixamo3DAnimations/walking.fbx
+  artifactKey: Guid(7c8235a1cc70d4847859e3d3c90b6a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/walking.fbx using Guid(7c8235a1cc70d4847859e3d3c90b6a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3851d7c7705013c2243a722f150e93b') in 0.007696 seconds
+  Import took 0.011025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.302556 seconds.
+  path: Assets/Mixamo3DAnimations/walking to dying.fbx
+  artifactKey: Guid(37c1dfc99e24c324dad21a42e88670d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/walking to dying.fbx using Guid(37c1dfc99e24c324dad21a42e88670d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8c24ed0bad40db537426bc71018ac36') in 0.007212 seconds
+  Import took 0.009544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.663445 seconds.
+  path: Assets/Mixamo3DAnimations/idle.fbx
+  artifactKey: Guid(5f3be3a5b08668f4786b1671aaf3aed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/idle.fbx using Guid(5f3be3a5b08668f4786b1671aaf3aed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c40aa91c93ce80e9c211cb1be421a0') in 0.008092 seconds
+  Import took 0.011147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.004279 seconds.
+  path: Assets/Mixamo3DAnimations/firing rifle.fbx
+  artifactKey: Guid(86600fb36d45c2643ad56d7505a443f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/firing rifle.fbx using Guid(86600fb36d45c2643ad56d7505a443f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef1e3845f0d52c8d88313d8db1afc667') in 0.008018 seconds
+  Import took 0.010354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.751148 seconds.
+  path: Assets/Mixamo3DAnimations/rifle run.fbx
+  artifactKey: Guid(5651a30b9b8202d48bf5f0c65871af8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/rifle run.fbx using Guid(5651a30b9b8202d48bf5f0c65871af8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e855fd9183170f3b9a29730e76f0daa1') in 0.006943 seconds
+  Import took 0.010528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.295720 seconds.
+  path: Assets/Mixamo3DAnimations/rifle run.fbx
+  artifactKey: Guid(5651a30b9b8202d48bf5f0c65871af8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/rifle run.fbx using Guid(5651a30b9b8202d48bf5f0c65871af8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf3d27f18606fffc324dfffc8548ce0') in 0.007642 seconds
+  Import took 0.009875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053839 seconds.
+  path: Assets/Mixamo3DAnimations/rifle run.fbx
+  artifactKey: Guid(5651a30b9b8202d48bf5f0c65871af8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/rifle run.fbx using Guid(5651a30b9b8202d48bf5f0c65871af8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf3d27f18606fffc324dfffc8548ce0') in 0.007566 seconds
+  Import took 0.010682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.320460 seconds.
+  path: Assets/Mixamo3DAnimations/rifle aiming idle.fbx
+  artifactKey: Guid(a5874a9b38ab6a249ada1ee34e93970a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/rifle aiming idle.fbx using Guid(a5874a9b38ab6a249ada1ee34e93970a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941c4f2c8b771b3de12e4d7af7569dcc') in 0.006416 seconds
+  Import took 0.009315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.105504 seconds.
+  path: Assets/Mixamo3DAnimations/right turn 90.fbx
+  artifactKey: Guid(00780036432fe834ea1c3b2ae5f83ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/right turn 90.fbx using Guid(00780036432fe834ea1c3b2ae5f83ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fafbb6c39da227d1db1b215af8242123') in 0.006570 seconds
+  Import took 0.009300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.236801 seconds.
+  path: Assets/Mixamo3DAnimations/walking.fbx
+  artifactKey: Guid(7c8235a1cc70d4847859e3d3c90b6a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/walking.fbx using Guid(7c8235a1cc70d4847859e3d3c90b6a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c72c5106379f4ef724587a91b48bb18') in 0.007041 seconds
+  Import took 0.010390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.015952 seconds.
+  path: Assets/Mixamo3DAnimations/firing rifle.fbx
+  artifactKey: Guid(86600fb36d45c2643ad56d7505a443f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mixamo3DAnimations/firing rifle.fbx using Guid(86600fb36d45c2643ad56d7505a443f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea321400f0525bea9377c243751cc795') in 0.006036 seconds
+  Import took 0.008525 seconds .
+
