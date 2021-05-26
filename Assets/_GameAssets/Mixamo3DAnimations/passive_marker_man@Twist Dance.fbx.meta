@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: d11f3250ce09a3247a84acabc70461d4
+guid: dce2453f5f6d4564c8efbaa5e7cee816
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
   - first:
       74: -203655887218126122
-    second: StandardRun
+    second: Twist Dance
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -35,11 +35,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: StandardRun
+      name: Twist Dance
       takeName: mixamo.com
       internalID: 0
       firstFrame: 0
-      lastFrame: 22
+      lastFrame: 566
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
