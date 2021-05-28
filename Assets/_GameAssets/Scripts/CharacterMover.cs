@@ -25,12 +25,12 @@ public class CharacterMover : MonoBehaviour
 
     private void SetDeltaToAnimator()
     {
-        animator.SetFloat(PARAM_DELTA, delta);
+        animator.SetFloat(PARAM_DELTA, delta*z);
     }
 
     private void MoveCharacter()
     {
-        transform.Translate(Vector3.forward * delta * Time.deltaTime * walkSpeed);
+        transform.Translate(Vector3.forward * delta * z * Time.deltaTime * walkSpeed);
     }
 
     private void CalculateDelta()
